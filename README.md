@@ -1,4 +1,4 @@
-### Hello, welcome to my profile 👋
+### Welcome to my profile! 👋
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattewid&show_icons=true&theme=transparent&count_private=true)
